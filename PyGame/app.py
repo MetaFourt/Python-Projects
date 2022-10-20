@@ -55,11 +55,11 @@ print(game_images[computer_choice])
 
 # rules in logic  
 if user_choice == 0 and computer_choice == 2:  
-    print("You win! 🎉")  
+    print("You win!  🎉")  
 elif computer_choice == 0 and user_choice == 2:  
-    print("You lose.  ☠")  
+    print("You lose.TRY AGAIN!   ☠")  
 elif computer_choice > user_choice:  
-    print("You lose. ☠")  
+    print("You lose. TRY AGAIN!  ☠")  
 elif user_choice > computer_choice:  
     print("You win!🎉 ")  
 elif computer_choice == user_choice:  
