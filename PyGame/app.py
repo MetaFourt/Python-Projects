@@ -1,5 +1,6 @@
-print("Bye World! : (")
+print("Hello World! : )")
 
+# Library for generating random values
 import random
 
 # ASCII Arts for rock, paper, and scissors by Veronica Karlsson
